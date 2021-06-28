@@ -1,2 +1,2 @@
 # WebviewInterceptUrl
-intercepturl in webview request
+intercept url in webview request
